@@ -1,6 +1,6 @@
 # All Restaurants in Denver, Colorado, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 251 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `192532` |
 | Location | Denver |
 | Category | Restaurants |
-| Full dataset size | 1,847 records |
-| Free sample size | 25 records (1.35%) |
-| Last export | 2026-03-31T15:29:02.932587+00:00 |
+| Full dataset size | 2,514 records |
+| Free sample size | 251 records (9.98%) |
+| Last export | 2026-04-14T16:20:17.673532+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-denver-colorado-us-sample-192532/releases/download/sample-latest/beamstation_192532_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
