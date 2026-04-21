@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6cffd0e6-a5da-411d-8132-1f45c5cd3aff",
+  "export_job_id": "7de8db70-4e5f-44e5-9472-16d3a13753f6",
   "id_short": 192532,
-  "published_at": "2026-04-17T19:10:37Z",
+  "published_at": "2026-04-21T19:09:08Z",
   "repo_name": "all-restaurants-in-denver-colorado-us-sample-192532",
   "sample_asset_name": "beamstation_192532_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/192532/beamstation_192532_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 251,
-  "sample_sha256": "8a9e498e895b8d29ab8854d57f32cd3f8e7614ee7736da71eb7b285833eebf10",
-  "sample_size_bytes": 907085,
-  "total_records": 2514
+  "sample_records": 216,
+  "sample_sha256": "6fb6b1a002603a564d896e880afe4cfba00c99fcdc904d45a5644cb91e0a6e98",
+  "sample_size_bytes": 783621,
+  "total_records": 2169
 }
