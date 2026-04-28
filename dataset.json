@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Denver, Colorado with a population of over 715k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Denver, Colorado, US",
-  "export_job_id": "7de8db70-4e5f-44e5-9472-16d3a13753f6",
+  "export_job_id": "ae1a6e09-51fb-44cb-a80f-ca5f380ac2ea",
   "github_org": "Beamstation-Datasets",
   "id_short": 192532,
   "location_name": "Denver",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-denver-colorado-us-sample-192532",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/192532/beamstation_192532_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_pct": 9.96,
-  "sample_records": 216,
-  "sample_sha256": "6fb6b1a002603a564d896e880afe4cfba00c99fcdc904d45a5644cb91e0a6e98",
-  "sample_size_bytes": 783621,
-  "total_records": 2169,
-  "updated_at": "2026-04-21T17:46:18.171927+00:00"
+  "sample_records": 232,
+  "sample_sha256": "a93a18cf2d06bc87645df20dad758dc5838149f7eb69780e7847e90fbf33c5a4",
+  "sample_size_bytes": 810479,
+  "total_records": 2329,
+  "updated_at": "2026-04-28T19:03:08.691203+00:00"
 }
